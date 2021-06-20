@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Conditional Statements Advanced/Conditional Statements Advanced.iml" filepath="$PROJECT_DIR$/Conditional Statements Advanced/Conditional Statements Advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExamProgrammingBasicsJava/ExamProgrammingBasicsJava.iml" filepath="$PROJECT_DIR$/ExamProgrammingBasicsJava/ExamProgrammingBasicsJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First-Steps-In-Coding.iml" filepath="$PROJECT_DIR$/First-Steps-In-Coding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaForLoop/JavaForLoop.iml" filepath="$PROJECT_DIR$/JavaForLoop/JavaForLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NestedLoops/NestedLoops.iml" filepath="$PROJECT_DIR$/NestedLoops/NestedLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleConditionsLab&amp;Exercise/SimpleConditionsLab&amp;Exercise.iml" filepath="$PROJECT_DIR$/SimpleConditionsLab&amp;Exercise/SimpleConditionsLab&amp;Exercise.iml" />
+    </modules>
+  </component>
+</project>
